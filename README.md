@@ -5,7 +5,8 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with expertise in a wid
 ## About Me
 
 <div align="center">
-  <img src="[https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3ppN3ExbWJwY2x0eGNtMWh4ZDMwemcyOXR3czJqZG5sdTBkMzhkOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif)" width="450" alt="ecem gokdogan" />
+<!--   <img src="[https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3ppN3ExbWJwY2x0eGNtMWh4ZDMwemcyOXR3czJqZG5sdTBkMzhkOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif)" width="450" alt="ecem gokdogan" /> -->
+  <iframe src="https://giphy.com/embed/2zZNmrvguyPTS06rK0" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/2zZNmrvguyPTS06rK0">via GIPHY</a></p>
 </div>
 
 - 💻 Proficient in frontend technologies like React.js, Next.js, HTML5, CSS3, JavaScript, TypeScript, React Native, Tailwind CSS, and Bootstrap.
